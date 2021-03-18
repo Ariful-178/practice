@@ -1,0 +1,47 @@
+#plus,#minus,#multiply,#divaided{
+
+    width: 45px;
+    height: 40px;
+    font-size: 25px;
+    text-align: center;
+    margin:10px;
+    background-color: rgb(241, 118, 118);
+    border-radius:5px;
+    cursor: pointer;
+    
+}
+
+#result{
+
+    width: 70px;
+    height: 40px;
+    font-size: 25px;
+    text-align: center;
+    margin:10px;
+    background-color: rgb(92, 219, 160);
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+#first,#second{
+
+
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+.cal{
+
+    
+    margin-top: 300px;
+    text-align: center;
+}
+#resultArea{
+
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+   
+    display: inline-block;
+}
